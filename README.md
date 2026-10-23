@@ -89,7 +89,20 @@ SmartTravelPlanner/
 
 ## Screenshots
 
-Screenshots of the application's pages will be available in the `screenshots` folder.
+### Home Page
+![Home Page](screenshots/HomePage.png)
+
+### Login Page
+![Login Page](screenshots/LoginPage.png)
+
+### Create Trip
+![Create Trip](screenshots/CreatePage.png)
+
+### My Trips
+![My Trips](screenshots/My-TripsPage.png)
+
+### Generate Itinerary
+![Generate Itinerary](screenshots/GenerateItineraryPage.png)
 
 ## Future Improvements
 
